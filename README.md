@@ -1,16 +1,21 @@
-# ioscolleges_columnsintorows
+# Flutter UI Navigation App
 
-A new Flutter project.
+This project is a Flutter application built to practice multi-screen navigation, UI design, and reusable widgets.
 
-## Getting Started
+## Features
+- Named route navigation
+- Multiple mini-project screens
+- Calculator and tip calculator
+- Temperature conversion tools
+- UI layout practice
 
-This project is a starting point for a Flutter application.
+## Built With
+- Flutter
+- Dart
+- Android Studio
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What I Learned
+- Flutter routing system
+- Stateful and stateless widgets
+- Layout design using Row and Column
+- Custom reusable widgets
